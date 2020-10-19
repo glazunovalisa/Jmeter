@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603138923554,1038,Load the home page,200,OK,Homework 1-1,text,true,,7356,362,1,1,http://demo.nopcommerce.com/,869,0,193
+1603138925683,509,"Search for ""Nikon""",200,OK,Homework 1-1,text,true,,1581,418,1,1,http://demo.nopcommerce.com/catalog/searchtermautocomplete?term=Nikon,508,0,0
+1603138927283,812,See the results of the search,200,OK,Homework 1-1,text,true,,6850,415,1,1,http://demo.nopcommerce.com/search?q=Nikon,631,0,0
+1603138931579,1179,Open the product page,200,OK,Homework 1-1,text,true,,11978,431,1,1,http://demo.nopcommerce.com/nikon-d5500-dslr,981,0,0
+1603138933803,383,Add product to the cart,200,OK,Homework 1-1,text,true,,2065,962,1,1,http://demo.nopcommerce.com/addproducttocart/details/14/1,383,0,0
+1603138935213,6206,Open the cart,200,OK,Homework 1-1,text,true,,6691,842,1,1,https://demo.nopcommerce.com/cart,259,0,0
+1603138935213,259,Open the cart-0,301,Moved Permanently,Homework 1-1,,true,,1424,421,1,1,http://demo.nopcommerce.com/cart,259,0,0
+1603138935515,5904,Open the cart-1,200,OK,Homework 1-1,text,true,,5267,421,1,1,https://demo.nopcommerce.com/cart,5896,0,4746
